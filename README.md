@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Michaelayor
-- 👀 I’m interested in BACKEND DEVELOPMENT
-- 🌱 I’m currently learning JAVASCRIPT
-- 💞️ I’m looking to collaborate on a quiz app
-- 📫 How to reach me adebanjo426@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: 
+Hi👋, I'm Michael Ayor a passionate javascript developer from Nigeria 
 
 <!---
 Michaelayor/Michaelayor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
